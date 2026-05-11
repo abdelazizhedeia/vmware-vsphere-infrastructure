@@ -6,7 +6,6 @@
 ![HA](https://img.shields.io/badge/High_Availability-Enabled-brightgreen)
 ![DRS](https://img.shields.io/badge/DRS-Configured-blueviolet)
 ![FT](https://img.shields.io/badge/Fault_Tolerance-Active-red)
-![License](https://img.shields.io/badge/License-MIT-yellow)
 
 ---
 
